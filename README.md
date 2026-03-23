@@ -22,6 +22,3 @@ I’m **Alina Mazitova** — a Frontend Developer focused on building clean, aes
 ![](https://github-readme-stats.vercel.app/api?username=AliRMazitova&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AliRMazitova&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRMazitova&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AliRMazitova&limit=5&theme=rose&combine_all_yearly_contributions=true)
