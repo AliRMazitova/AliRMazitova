@@ -13,7 +13,7 @@ I’m **Alina Mazitova** — a Frontend Developer focused on building clean, aes
 
 # Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white) 
 ![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=flat&logo=vuedotjs&logoColor=white) 
