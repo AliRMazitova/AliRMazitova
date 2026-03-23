@@ -5,8 +5,8 @@ I’m Alina Mazitova — a Frontend Developer focused on building clean, aesthet
 
 <br/>
 
-**Frontend Developer**  
-** Vue.js / Node.js **
+**Frontend Developer**
+**Vue.js / Node.js**
 **Modern UI & clean architecture**  
 
 </div>
