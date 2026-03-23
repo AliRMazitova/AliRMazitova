@@ -12,12 +12,12 @@ I’m **Alina Mazitova** — a Frontend Developer focused on building clean, aes
 </div>
 
 # Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white) 
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=flat&logo=vuedotjs&logoColor=white) 
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat&logo=figma&logoColor=white)
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliRMazitova&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AliRMazitova&theme=rose&hide_border=false)<br/>
