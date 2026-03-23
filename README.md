@@ -1,13 +1,13 @@
 # About Me:
 <div align="center">
 
-I’m Alina Mazitova — a Frontend Developer focused on building clean, aesthetic and modern web applications.   
+I’m **Alina Mazitova** — a Frontend Developer focused on building clean, aesthetic and modern web applications.   
 
 <br/>
 
-**Frontend Developer**
-**Vue.js / Node.js**
-**Modern UI & clean architecture**  
+**Frontend Developer** <br/>
+**Vue.js / Node.js** <br/>
+**Modern UI & clean architecture**  <br/>
 
 </div>
 
